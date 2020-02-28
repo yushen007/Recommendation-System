@@ -1,1 +1,1 @@
-The contents of this floderinclude introduction, development and algorithms of recommendation system.
+The contents of this floder include introduction, development and algorithms of recommendation system.
